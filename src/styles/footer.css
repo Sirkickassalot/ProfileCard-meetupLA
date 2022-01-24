@@ -1,0 +1,37 @@
+.footer {
+    display: flex;
+    /* justify-content: center; */
+    justify-content: space-around;
+    margin-top: 40px;
+}
+
+.followers{
+    width: 70px;
+    height: 50px;
+    background-color: hotpink;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.likes {
+    width: 70px;
+    height: 50px;
+    background-color: indigo;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.photos {
+    width: 70px;
+    height: 50px;
+    background-color: orange;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}

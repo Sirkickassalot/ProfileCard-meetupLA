@@ -1,0 +1,21 @@
+.name{
+    color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    height: 33.3%;
+    background-color: violet;
+}
+
+.name h2 {
+    margin-top: 45px;
+}
+
+.name img {
+    width: 70px;
+    height: 70px;
+    border-radius: 100%;
+    position: absolute;
+    bottom: 100px;
+}
